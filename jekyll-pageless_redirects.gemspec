@@ -1,7 +1,7 @@
 Gem::Specification.new do |spec|
 
   spec.name          = 'jekyll-pageless_redirects'
-  spec.version       = '0.0.1'
+  spec.version       = '0.0.2'
   spec.authors       = ['Nicholas Quinlan']
   spec.email         = ['nick@nicholasquinlan.com']
   spec.summary       = ''
